@@ -1,6 +1,6 @@
 {
   "name": "Open Terms Archive",
-  "documents": {
+  "terms": {
     "Privacy Policy": {
       "fetch": "https://opentermsarchive.org/privacy-policy",
       "select": ".TextContent_textContent__ToW2S"
